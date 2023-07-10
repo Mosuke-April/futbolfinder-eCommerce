@@ -51,7 +51,7 @@ The competitive assessment plays a significant role in understanding the market 
 
 A comprehensive questionnaire has been developed to facilitate the competitive assessment. The questionnaire aims to gather information about the competitors, their strengths and weaknesses, and the unique aspects that make industry leaders stand out.
 
-A brief overview of the questionnaire is provided below. The complete questionnaire can be found [*here*](./Analysis/Competitive-Assessment/	Competitor-Questionnaire.odt) - inside the Analysis folder.
+A brief overview of the questionnaire is provided below. The complete questionnaire can be found [*here*](./Analysis/Competitive-Assessment/Competitor-Questionnaire.odt) - inside the Analysis folder.
 
 ```
 Analysis/Competitive-Assessment/Competitor-Questionnaire.odt
