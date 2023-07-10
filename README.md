@@ -19,7 +19,7 @@ This project is from the 2nd Chapter of the book: 🔗[*Wireframing Essentials -
 
 ---
 
-![Chapter 2 Extract](./Misc/Chapter-2_Extract.png) 
+![Chapter 2 Extract](https://i.imgur.com/OoURWZX.png)
 ###### Copyright © 2014 Packt Publishing
 
 ---
